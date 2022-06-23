@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Start-Here
+- file: stock-report 
+- file: 01-numpy-scipy
+- file: 02-matplotlib
+- file: 03-pandas
+- file: 01-symbolic-math
+- file: 02-fitting-and-interpolating
+- file: 03-ODEs
+- file: 04-image-teaser
